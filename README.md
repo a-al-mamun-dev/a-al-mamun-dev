@@ -1,35 +1,68 @@
-# 👋 Hello, I'm Md. Abdullah Al Mamun
+<h1 align="center">Hi 👋, I'm Md. Abdullah Al Mamun</h1>
+<h3 align="center">💻 CSE Undergrad | 🚀 Startup Enthusiast | ❤️ Coding + Problem Solving</h3>
 
-🚀 I’m a Computer Science & Engineering undergraduate from Bangladesh, passionate about solving problems, learning new technologies, and building digital solutions that matter.
-
-🎯 I’m the mind behind:
-- 🩸 **RedDrop** – a mobile blood donation platform to connect verified donors with hospitals across Bangladesh.
-- 🚌 **Bus Koi** – an interactive public transport guide project (C Programming based).
-
----
-
-## 🛠️ Tech Stack
-- 💻 Languages: C, SQL, HTML/CSS, JavaScript (Basics)
-- 🧠 Databases: Oracle APEX, Oracle SQL, SQLite
-- 🔧 Tools: Git, GitHub, Canva, Figma, Visual Studio Code
-- 🌐 Others: Social Media Management, Branding, Microsoft Excel
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-al-mamun-dev&label=Profile%20views&color=0e75b6&style=flat" alt="a-al-mamun-dev" />
+</p>
 
 ---
 
-## 🌱 What I'm Working On
-- 🚧 Developing **RedDrop** as a real-world startup concept
-- 🎓 Learning **Web Development** and **Database Design**
-- 📚 Exploring **Open Source Contributions**
+### 🚀 About Me
+- 🧠 I'm currently studying **Computer Science & Engineering**
+- 🌱 Learning Full Stack Development & Database Systems
+- 👨‍💻 Working on: [RedDrop](#) & [Bus Koi](#)
+- 💡 Exploring startup, UI/UX, and open-source ideas
 
 ---
 
-## 📫 Connect with Me
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/Oracle-Apex-red?style=flat&logo=oracle" alt="Oracle APEX" />
+  <img src="https://img.shields.io/badge/SQL-orange?style=flat&logo=sqlite" alt="SQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📫 Contact Me
+
 - 📧 Email: [abdullahalmamun.cse777@gmail.com](mailto:abdullahalmamun.cse777@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/a-al-mamun](https://www.linkedin.com/in/a-al-mamun)
-- 📘 Facebook: [facebook.com/abdullahalmamun.m0](https://www.facebook.com/abdullahalmamun.m0)
+- 📘 Facebook: [abdullahalmamun.m0](https://facebook.com/abdullahalmamun.m0)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### ⚡ Featured Projects
 
-⭐ Don’t forget to check out my pinned projects below!
+| Project | Description |
+|--------|-------------|
+| 🩸 **RedDrop** | Real-time blood donation platform for Bangladesh |
+| 🚌 **Bus Koi** | Public transport guide made with C language |
+| 💻 **abdullah-progs** | Code snippets, logic problems & experiments |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-al-mamun-dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-al-mamun-dev&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+> 💬 *“Think deep. Code smart. Stay humble.”*  
+> — **Md. Abdullah Al Mamun**
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — **Cory House**
+
+---
+
+<p align="center">
+  ⭐ <strong>Don't forget to check out my pinned projects below!</strong> ⭐
+</p>
