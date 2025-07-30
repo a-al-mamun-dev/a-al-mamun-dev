@@ -42,7 +42,6 @@
 |--------|-------------|
 | 🩸 **RedDrop** | Real-time blood donation platform for Bangladesh |
 | 🚌 **Bus Koi** | Public transport guide made with C language |
-| 💻 **abdullah-progs** | Code snippets, logic problems & experiments |
 
 ---
 
