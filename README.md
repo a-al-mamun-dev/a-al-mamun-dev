@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/a-al-mamun/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://a-al-mamun-dev.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:abd.al.maamun@gmail.com">
